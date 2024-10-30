@@ -14,6 +14,8 @@ Its 2022 and a local bike shop owner is looking to implement a dashboard to view
 
 ## Process
 
+![image](https://github.com/user-attachments/assets/30173f9d-2659-4539-9003-9fceefe71272)
+
 I first downloaded the [Dataset]([https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue/data](https://github.com/Gaelim/YT_bike_share)) through Github.
 After fixing issues with the data types, I then imported the data directly into Microsoft SQL Server.
 
